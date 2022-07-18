@@ -8,3 +8,5 @@ Image_Preprocessing.m preprocesses the image by cropping, cleaning, and resizing
 TopApo_Model_Training.m trains the model to indentify top aponeuroses.
 BotApo_Model_Training trains the model to identify bottom aporneuroses.
 PURA_Final_Report.pdf details the project overview and presents the results.
+
+*All Files located in google drive: https://drive.google.com/drive/folders/1KTYAtqxiHNg1UfLuWRFT-1hHd4wOwktL?usp=sharing
